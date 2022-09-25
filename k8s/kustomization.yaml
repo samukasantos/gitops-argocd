@@ -8,4 +8,4 @@ resources:
 images:
 - name: nodeserver
   newName: samsantos/gitops
-  newTag: 208b776ec9847c1798e441eaaf5976656434291b
+  newTag: f3e3511c4204a1cf91a9bf175c51eaa1d62d3010
